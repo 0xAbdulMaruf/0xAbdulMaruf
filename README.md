@@ -2,67 +2,69 @@
 <!--      GITHUB PROFILE      -->
 <!-- ========================= -->
 
-<h1 align="center">
-  Hi 👋, I'm <span style="color:#00ffcc;">ABDUL MARUF</span>
-</h1>
+<div align="center">
 
-<h3 align="center">
-  💻 Computer Science Student | 🐞 Bug Hunter | 🐧 Linux Enthusiast
-</h3>
+# 👋 Hi, I'm ABDUL MARUF
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=550&lines=Student+of+Computer+Science;Deep+into+Bug+Hunting;Linux+%7C+Python+%7C+SQL+%7C+PostgreSQL;Learning+%26+Breaking+Things+Every+Day" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FFCC&center=true&vCenter=true&width=500&lines=💻+Computer+Science+Student;🐞+Bug+Hunter;🐧+Linux+Enthusiast;⚡+Security+Researcher)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
-## 🚀 About Me  
+## 🎯 About Me
 
-- 🎓 **Computer Science Student**
-- 🐞 Passionate about **Bug Hunting & Security Research**
-- 🐧 Daily driving **Linux**
-- 🧠 Love digging into **systems, exploits & databases**
-- ⚡ Motto: *Break it → Understand it → Fix it*
+```
+🎓 CS Student | 🐞 Bug Hunter | 🐧 Linux Daily Driver | 🧠 Security Enthusiast
+```
 
----
-
-## 🛠️ Tech Stack  
-
-### 💻 Languages & Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=python,linux,postgresql,mysql,sqlite,bash" />
-</p>
-
-### 🔐 Interests
-- Bug Hunting / Vulnerability Research  
-- Linux Internals  
-- SQL Injection & DB Security  
-- Automation with Python  
+- 💻 Building secure & scalable systems
+- 🔍 Passionate about vulnerability research
+- 🐧 Linux & open-source lover
+- 🚀 Breaking things to make them better
+- ⚡ **Motto:** Break it → Understand it → Fix it
 
 ---
 
+## 🛠️ Tech Stack
 
+<div align="center">
 
-## 🌐 Connect With Me  
+**Languages & Tools**
 
-<p align="center">
-  <a href="https://github.com/rdxmaruf07">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Linux-1793D1?style=for-the-badge&logo=linux&logoColor=white" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Bug%20Hunter-ff0000?style=for-the-badge&logo=bugcrowd&logoColor=white" />
-  </a>
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+**Specializations**
+
+🔐 Bug Hunting | 🗄️ SQL Security | 🐧 Linux Internals | 🤖 Python Automation
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=0xAbdulMaruf&label=Profile+Views&color=0e75b6&style=flat" />
-</p>
+## 🌐 Connect With Me
 
-<p align="center">
-  ⚠️ <i>Root access is earned, not given.</i> ⚠️
-</p>
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xAbdulMaruf)
+[![Security](https://img.shields.io/badge/Security-FF0000?style=for-the-badge&logo=security&logoColor=white)]()
+
+</div>
+
+---
+
+<div align="center">
+
+### 📊 Profile Stats
+
+![Profile Views](https://komarev.com/ghpvc/?username=0xAbdulMaruf&label=Profile+Views&color=00FFCC&style=flat-square)
+
+### ⚡ Quick Note
+> Root access is **earned**, not given. 🔐
+
+</div>
